@@ -1,6 +1,6 @@
 {
   "name": "procecutor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "environmentally friendly child process pooling for node.js",
   "main": "lib/procecutor.js",
   "repository": {
